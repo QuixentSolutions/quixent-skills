@@ -349,11 +349,44 @@ bucket) worth reusing for future casual/street-food-style items.
 
 ---
 
+## 2.12 Sync (09-Jul-2026): repeat reel-quality pattern + new "too dark" color rejection
+
+Live Excel sheet sync found 2 new logged rows since the last sync (30-Jun through 07-Jul-2026):
+
+- **3-Jul-2026 Friday post/reel**: client asked to promote that birthday celebration events can be
+  organized at the restaurant, and supplied sample photos plus Chinese content. Approved on the
+  first creative iteration, but (like the 26-Jun-2026 reel logged in section 2.11) resent for
+  bgm/quality reasons before final delivery (2 pics sent despite 1-iteration approval). **This is
+  now a repeated pattern across two separate reels** — creative approval and export-readiness
+  (audio + quality) are consistently separate checks for this client, not a one-off lesson.
+- **7-Jul-2026 Tuesday post**: v1 rejected because "the background red colour is too dark"; v2
+  approved after the background colour was changed. This is a new color data point — unlike the
+  earlier "too light/washed out" rejections, this one is explicitly "too dark." See the open
+  question in section 4 below — this doesn't resolve whether the rule is "avoid extremes in either
+  direction" or something more specific to red backgrounds; worth watching for more examples before
+  drawing a conclusion.
+
+**Drive folder check (same sync)**: two new files appeared, both dated 07-Jul-2026 — `IMG-20260707-WA0005.jpg`
+in the approvals folder and `IMG-20260707-WA0000.jpg` in the rejections folder. Given the dates line
+up exactly with the 7-Jul-2026 rejected/approved pair above, these are very likely that post's two
+versions, but this has **not been visually confirmed by Vengatesh** — treat as a strong guess, not
+fact, until confirmed. A new "Menu" subfolder was also added to the client info folder (06-Jul-2026)
+containing `MM Menu_compressed.pdf` — the restaurant's full current menu with bilingual (EN/CN) dish
+names and prices across all categories (starters, dosa/idly, mains, beverages, mocktails). This is a
+genuinely useful new reference for getting dish names, Chinese translations, and pricing exactly
+right in future briefs — see `drive_asset_inventory.md` for details.
+
+---
+
 ## 4. Open questions / things to watch
 
 - Whether "over colourful" (early rejection) and later "too light/washed out" rejections represent
   a genuinely consistent taste (contrast-driven) or an evolving preference over the 3 months — worth
   Vengatesh's judgment call if a new color rejection comes in that doesn't fit the contrast theory.
+  **Update (09-Jul-2026)**: a new rejection came in for a background being "too dark" (red bg,
+  7-Jul-2026 Tuesday post) — this is the opposite direction from "too light," which supports the
+  original contrast/legibility reading (section 2.1) over a directional "lighter is better" or
+  "darker is better" rule. Still worth tracking as more examples come in.
 - Whether the cultural-sensitivity lesson (arch/muslim-theme near-miss) generalizes to other
   architectural or symbolic choices — flag anything ambiguous to Vengatesh before it goes to client,
   rather than assuming you can resolve it from the profile alone.
@@ -397,3 +430,11 @@ bucket) worth reusing for future casual/street-food-style items.
   published, built from Instagram screenshots, the approvals folder, and the iteration tracker.
   Wired into the design generation workflow as a mandatory first check, so a dish or layout already
   used doesn't get proposed again without it being flagged explicitly.
+- Added section 2.12 (09-Jul-2026 sync): logged the 3-Jul-2026 birthday-celebration promo reel
+  (confirms the bgm/quality resend pattern from 2.11 is now a repeated, not one-off, lesson) and the
+  7-Jul-2026 Tuesday post (rejected for background "too dark," approved after correction — new color
+  data point supporting the contrast/legibility reading over a directional lighter/darker rule).
+  Also found a new "Menu" subfolder in the client info Drive folder containing the full current menu
+  as a PDF (bilingual dish names + prices) — a new reference asset for copy accuracy. Two new Drive
+  files dated 7-Jul-2026 (one in approvals, one in rejections) are very likely the two versions of
+  that day's Tuesday post but are not yet visually confirmed by Vengatesh.

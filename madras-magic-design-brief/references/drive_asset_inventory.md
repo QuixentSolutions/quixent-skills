@@ -83,10 +83,10 @@ inspection (real plating, real props, real lighting, no AI-render artifacts). Ke
 
 | Folder | Folder ID | Last verified count | Last verified date |
 |---|---|---|---|
-| Madras magic client info | `1W4MVIFmdHQq0XTk4sxnjvODljzjPuV-Z` | 3 | 02-Jul-2026 |
-| Madras magic approvals | `1ugemoY8edJuMdKbydA963acYB1KC9kHh` | 27 | 02-Jul-2026 |
-| Madras magic rejections | `1RI2FDS_WG9tr0puf-kBDvixnA_DeDhLD` | 12 | 02-Jul-2026 |
-| Madras magic foods | `1D4MJVH5G1GNTHQQ5h90V3EDXSqNJyJOr` | 40 | 02-Jul-2026 |
+| Madras magic client info | `1W4MVIFmdHQq0XTk4sxnjvODljzjPuV-Z` | 3 files + 1 subfolder ("Menu", 1 file) | 09-Jul-2026 |
+| Madras magic approvals | `1ugemoY8edJuMdKbydA963acYB1KC9kHh` | 28 | 09-Jul-2026 |
+| Madras magic rejections | `1RI2FDS_WG9tr0puf-kBDvixnA_DeDhLD` | 13 | 09-Jul-2026 |
+| Madras magic foods | `1D4MJVH5G1GNTHQQ5h90V3EDXSqNJyJOr` | 40 | 09-Jul-2026 |
 
 When a sync runs, update this table with the new counts and date so the next sync has an accurate
 baseline to compare against.
@@ -102,3 +102,17 @@ else:
   quality per section 2.11 of client_profile.md).
 - `mm 123.png` (added 02-Jul-2026) — **confirmed by Vengatesh**: the 30-Jun-2026 Tuesday post,
   Pani Puri (印度脆球) hero design, green bg. Logged in `posted_content_registry.md`.
+
+## New items found in 09-Jul-2026 sync (unconfirmed context — ask Vengatesh)
+
+- **New "Menu" subfolder** (`1ICDQj724XpjhbaN014fPtgfWZUDh_RTj`) under the client info folder,
+  created 06-Jul-2026, containing one file: `MM Menu_compressed.pdf` — the restaurant's full current
+  menu (bilingual EN/CN), covering banana leaf feast, starters/appetizers, dosa/idly special, mains,
+  beverages, and mocktails, each with exact Chinese names and NTD pricing. **Genuinely useful**: use
+  this as the authoritative source for dish names and Chinese spelling when drafting new briefs,
+  rather than guessing or relying on a single machine translation (ties directly into the section
+  1.1 text-accuracy hard rule in `client_profile.md`).
+- `IMG-20260707-WA0005.jpg` (approvals folder, added 07-Jul-2026) and `IMG-20260707-WA0000.jpg`
+  (rejections folder, added 07-Jul-2026) — dates line up exactly with the 7-Jul-2026 Tuesday post
+  logged in the Excel sheet (v1 rejected for background "too dark," v2 approved), so these are very
+  likely that post's two versions — **but not yet visually confirmed by Vengatesh**.
