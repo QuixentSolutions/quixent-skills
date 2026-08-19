@@ -20,12 +20,14 @@ Helps Vengatesh generate Meta ad ideas and hooks (with or without a given theme)
 - **Location anchors:** ~0.8 km from Tiruchirappalli Junction (Trichy Junction) railway station; ~0.5 km from the Central Bus Stand; Cantonment commercial belt; near Joseph Eye Hospital, KMC Speciality, and K.A.P. Viswanathan Govt. Medical College; near Nalli Silks. This is a **transit + commercial + healthcare** footfall profile — not college-belt or temple-pilgrim-adjacent (Srirangam/Rockfort are elsewhere in Trichy, not walking distance from this outlet).
 - **Parent brand:** New Shop — India's franchised 24/7 convenience retail chain (newshop.in). Typical category mix across outlets: fresh food cafe, FMCG, stationery, tobacco, OTC medicines, and services like printing, ticket booking, ATM, courier — **but confirm which of these this specific outlet actually offers** before promoting any of them (see open items).
 - **Languages:** Currently using **English captions for now** (Vengatesh's explicit call). Earlier direction was Tamil/Tanglish by default since the audience is Tamil-speaking Trichy locals — that reasoning still stands and this may revert; check with Vengatesh before assuming which is current if this file looks stale. No Chinese and no Taiwan-market conventions — this is a Trichy, Tamil Nadu (India) outlet.
+- **Phone:** 91761 22210 (confirmed)
+- **Instagram:** @newshoptrichy (confirmed)
 
 ## Open items — confirm before finalizing brand-locked or product-specific creative
 
 1. ~~Official logo file~~ — **received**, saved at `assets/brand/new_shop_official_logo.png`. Use as-is; never redraw (see `references/brand_guidelines.md`). Exact hex codes and approved fonts still unconfirmed.
-2. Which product/service categories this exact outlet offers
-3. Instagram/Facebook handle for this outlet (vs. New Shop's national handles)
+2. ~~Which product/service categories this outlet offers~~ — **confirmed**, summarized at `references/product_categories.md` (applies to Trichy too, per Vengatesh).
+3. ~~Instagram/Facebook handle for this outlet~~ — **confirmed**: @newshoptrichy
 4. Meta Business Manager / ad account access
 5. Opening date (for launch campaign timing)
 6. Nearby competitor stores near Bharathiar Salai/Cantonment
@@ -48,15 +50,27 @@ This is the primary everyday use of this skill.
 2. Cross-check against `references/posted_content_registry.md` to avoid repeating a recently-used theme.
 3. Propose 2–3 theme options with a one-line rationale each (why it fits this outlet's location/audience), then generate hooks for whichever Vengatesh picks — same 5 steps as above.
 
+## Product spotlight workflow
+
+Used when Vengatesh asks for a post about a specific product (named, or shown via photo), rather than a festival/theme post.
+
+1. Confirm the product against `references/product_categories.md` — don't feature it if it's not confirmed stocked, and never feature smoking accessories (Stash Pro) in paid ad creative.
+2. **Auto-generate the description** following `references/product_description_guide.md` — product name, category tag, a 2–3 sentence attractive description, and a short CTA line. Don't wait to be asked for this; it's a default part of every product spotlight.
+3. Follow the mandatory design rules in `references/brand_guidelines.md` — black+yellow-only background, real logo untouched at the top — and give the description its own styled panel in the layout, not just a one-line caption (see design placement notes in `product_description_guide.md`).
+4. If a real product photo is provided, composite it as-is (background cleanup like removing a white backdrop is fine; don't alter the product itself). If no photo is provided, either ask for one or offer an original illustration, per `references/ai_image_guide.md`.
+5. Log it to `references/posted_content_registry.md` once finalized.
+
 ## How to use this skill for other tasks
 
 1. **For any new creative**, read `references/brand_guidelines.md` first for locked vs. localizable elements.
-2. **For AI-generated visuals**, follow `references/ai_image_guide.md` — consistency, red-flags checklist (no garbled text-in-image, no inaccurate products), and when a real photo is mandatory instead.
-3. **For Meta ad specs/format/targeting**, see `references/meta_ads_playbook.md`.
-4. **For audience targeting**, see `references/audience_profile.md` — this outlet's segments are transit commuters, hospital visitors/staff, and the local Cantonment commercial crowd, not students or pilgrims.
-5. **For festival/event timing**, see `references/trichy_calendar.md`.
-6. **Before sending any brief**, check `references/checklists.md`.
-7. **After a design/ad goes live or gets feedback**, log it to `references/posted_content_registry.md`.
+2. **For what's actually stocked**, check `references/product_categories.md` before naming specific products in a hook — and never feature smoking accessories (Stash Pro) in paid ad creative.
+3. **For product spotlight posts**, follow the dedicated workflow above and `references/product_description_guide.md`.
+4. **For AI-generated visuals**, follow `references/ai_image_guide.md` — consistency, red-flags checklist (no garbled text-in-image, no inaccurate products), and when a real photo is mandatory instead.
+5. **For Meta ad specs/format/targeting**, see `references/meta_ads_playbook.md`.
+6. **For audience targeting**, see `references/audience_profile.md` — this outlet's segments are transit commuters, hospital visitors/staff, and the local Cantonment commercial crowd, not students or pilgrims.
+7. **For festival/event timing**, see `references/trichy_calendar.md`.
+8. **Before sending any brief**, check `references/checklists.md`.
+9. **After a design/ad goes live or gets feedback**, log it to `references/posted_content_registry.md`.
 
 ## Updating this skill
 

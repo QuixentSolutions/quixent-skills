@@ -4,9 +4,9 @@ Status: **Confirmed — this outlet uses the same logo and visual theme as New S
 
 ## ⚠️ Mandatory rules for every post — no exceptions
 
-These two are locked by Vengatesh's explicit instruction and apply to **every single post/ad this skill produces**, not just festival posts:
+These two are locked by Vengatesh's explicit instruction and apply to **every single post/ad this skill produces**, with no exceptions by post type — same theme colors always:
 
-1. **Background is black + yellow only.** No gradients, no dusk/warm-tone scenery, no third background color. Solid black and solid yellow blocks/bands/stripes, period. (Foreground illustration elements can keep their own natural colors — a character or product can be full-color — but the background canvas itself stays strictly to these two.)
+1. **Background is black + yellow only, always.** No gradients, no photoreal scene backgrounds, no dusk/warm-tone scenery, no third background color — this applies to product spotlight posts exactly the same as festival/illustration posts. Solid black and solid yellow blocks/bands/stripes, period. (Foreground elements — the product itself, an illustrated character — can keep their own natural colors; only the *background* is restricted to black + yellow.) A prior draft used a photoreal chocolate-splash background and Vengatesh liked the layout/copy, not the background — that background style is not approved; keep the layout ideas (hook headline, badge, benefit icons, CTA button) but render them against a strict black+yellow background.
 2. **The real logo file goes at the top of every post**, not the bottom, not buried in a footer band. Use `assets/brand/new_shop_official_logo.png` as-is (see hard rule below) — place it in the top region of the layout as the first thing seen.
 
 Before presenting any design, check both of these are true. If a draft doesn't follow them, it's not ready to show.
@@ -39,15 +39,24 @@ The real logo file is saved at `assets/brand/new_shop_official_logo.png` (yellow
 
 **For anything still missing above: don't fabricate exact color values or fonts from memory for final production creative — flag it explicitly in the draft. This is a file-completeness gap, not a "which brand look to use" question — the look itself is settled as identical to the national brand, and the logo itself is now locked and available.**
 
-## Confirmed visual style (from official_newshop Instagram posts, seen by Vengatesh)
+## Confirmed visual style (from official_newshop Instagram posts, and layout ideas from a reference ad Vengatesh liked)
 
-- **Background: strictly two colors, black + yellow only — mandatory, see hard rules above.** No gradients, no dusk/warm-tone backgrounds, no multi-color scenery. Use solid black as the main canvas with yellow as the accent/band color (or vice versa), echoing the logo's own black/yellow stripe pattern.
-- **Layout pattern:** real logo file at the **top** of the post (mandatory placement), solid black main canvas below it, and a solid yellow band (top accent stripes and/or a lower band) for the greeting/tagline in black text.
-- **Headline pattern:** bold sans-serif, two-line structure — brand line + supporting line (e.g. "New Shop, Your Everyday Happy Place" + "Open 24/7 Just Like a Friend")
-- **Festival post format:** bold festival greeting line + `www.newshop.in` or address reference
+- **Background: strictly two colors, black + yellow only — always, no exceptions.** See mandatory rules above. No gradients, no photoreal scenery, no third background color, on any post type.
+- **Layout pattern:** real logo file at the **top** of the post (mandatory placement).
+- **Headline pattern:** bold hook-first headline — an emotional/benefit line before the product name (e.g. "Your Chocolate Craving, Solved." before "Cadbury Dairy Milk Silk — Fruit & Nut") — key words highlighted in yellow against a black background, white body text.
+- **Urgency badge:** a circular or ribbon "Now in Stock" style badge, yellow outline or fill on black.
+- **Benefit icon list (product posts):** 3 short benefit points, each as a small circular icon + bold yellow label + one-line white subtext (e.g. "Rich & Creamy — Smoothest Dairy Milk Silk"), on the black background. See `product_description_guide.md` for the pattern.
+- **CTA button:** real rounded button, yellow fill, bold black text (e.g. "Grab Yours Now →") — not plain caption text.
+- **Footer — 4-column info bar (confirmed pattern, use on every post going forward), inside a rounded black-outlined bar on the yellow band:**
+  1. **Visit Us** — pin icon + full address: "Ground Floor, 120, Bharathiar Salai, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001"
+  2. **Call Us** — phone icon + confirmed number: **91761 22210**
+  3. **Follow Us** — Instagram icon + confirmed handle: **@newshoptrichy**
+  4. **Find Us on Google Maps** — "Scan QR Code to Get Directions" + QR code linking to https://maps.app.goo.gl/MBiUWXNEwir7jxGN6
+  Below that bar, keep the short summary line too: pin icon + "Right by Trichy Junction — Open 24/7" + "New Shop · Cantonment, Trichy". This replaces the earlier shorter single-line-only footer.
+- **Festival post format:** bold festival greeting line + `www.newshop.in` or address reference, black+yellow only.
 - **Caption style (from real post):** short, warm, wordplay-driven (e.g. "Friends Forever. Convenience Always.") with hashtags
 
-**Still needed:** exact hex codes, exact font family — the above is observed style direction beyond the two mandatory rules. The logo itself is a real file now (see hard rule above) — don't redraw it.
+**Still needed:** exact hex codes, exact font family — the above is observed style direction beyond the mandatory rules. The logo itself is a real file now (see hard rule above) — don't redraw it.
 
 ## Localizable elements — Trichy-specific, Vengatesh's call
 

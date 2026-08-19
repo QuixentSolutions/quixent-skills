@@ -2,10 +2,12 @@
 
 ## Every ad/design, before sending
 
-- [ ] **Background is black + yellow only** — no gradients, no third color (mandatory, see `brand_guidelines.md`)
+- [ ] **Background is black + yellow only, always** — no gradients, no photoreal scenery, no third color, on any post type (mandatory, see `brand_guidelines.md`)
 - [ ] **Real logo file is placed at the top of the post**, not the footer (mandatory, see `brand_guidelines.md`) — using `assets/brand/new_shop_official_logo.png` as-is, never redrawn
+- [ ] Footer includes: location line, outlet tag, and the Google Maps QR code (see `brand_guidelines.md` for the link)
 - [ ] Doesn't use locked brand elements incorrectly (or flags that they're still unconfirmed — see `brand_guidelines.md`)
 - [ ] Doesn't promote a product/service not confirmed to be offered at this outlet
+- [ ] Doesn't feature smoking accessories (Stash Pro lighters/rolling papers/hookah coal) in paid ad creative — see `product_categories.md`
 - [ ] Copy language matches the current default set in `SKILL.md` (English, for now — was Tamil/Tanglish, may revert)
 - [ ] If Tamil/Tanglish is ever used again, get it checked by a native speaker before anything client-facing goes out
 - [ ] AI-generated visuals pass the checklist in `ai_image_guide.md`
