@@ -47,12 +47,13 @@ The real logo file is saved at `assets/brand/new_shop_official_logo.png` (yellow
 - **Urgency badge:** a circular or ribbon "Now in Stock" style badge, yellow outline or fill on black.
 - **Benefit icon list (product posts):** 3 short benefit points, each as a small circular icon + bold yellow label + one-line white subtext (e.g. "Rich & Creamy — Smoothest Dairy Milk Silk"), on the black background. See `product_description_guide.md` for the pattern.
 - **CTA button:** real rounded button, yellow fill, bold black text (e.g. "Grab Yours Now →") — not plain caption text.
-- **Footer — 4-column info bar (confirmed pattern, use on every post going forward), inside a rounded black-outlined bar on the yellow band:**
-  1. **Visit Us** — pin icon + full address: "Ground Floor, 120, Bharathiar Salai, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001"
-  2. **Call Us** — phone icon + confirmed number: **91761 22210**
-  3. **Follow Us** — Instagram icon + confirmed handle: **@newshoptrichy**
-  4. **Find Us on Google Maps** — "Scan QR Code to Get Directions" + QR code linking to https://maps.app.goo.gl/MBiUWXNEwir7jxGN6
-  Below that bar, keep the short summary line too: pin icon + "Right by Trichy Junction — Open 24/7" + "New Shop · Cantonment, Trichy". This replaces the earlier shorter single-line-only footer.
+- **Footer (client-approved pattern as of the latest approved designs — see `assets/approved-designs/`):**
+  - **Left block:** pin icon + "NEW SHOP" + full address: "Ground Floor, 120, Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli – 620001"
+  - **Right block:** school/landmark icon + "LANDMARK" + "Opposite St. James Matriculation Higher Secondary School (near by Domino's, Cantonment)"
+  - **Call Us** — phone icon + confirmed number: **7448973862**
+  - **Follow Us** — Instagram icon + confirmed handle: **@newshoptrichy**
+  - **Find Us on Google Maps** — "Scan QR Code to Get Directions" + QR code linking to https://maps.app.goo.gl/MBiUWXNEwir7jxGN6 (keep QR code and other footer mechanics as previously established)
+  Below that bar, keep the short summary line too where space allows: pin icon + "Right by Trichy Junction — Open 24/7" + "New Shop · Cantonment, Trichy".
 - **Festival post format:** bold festival greeting line + `www.newshop.in` or address reference, black+yellow only.
 - **Caption style (from real post):** short, warm, wordplay-driven (e.g. "Friends Forever. Convenience Always.") with hashtags
 

@@ -12,6 +12,7 @@ Create professional, high-quality Instagram promotional designs for New Shop, Tr
 - Brand: New Shop
 - Primary visual theme: yellow, black, and white.
 - The supplied reference image in `assets/new-shop-reference-image.png` is the authoritative New Shop brand reference for this skill.
+- `assets/approved-designs/` contains client-approved final posts (Kinder Joy, Toblerone, Americano Mints) showing the current approved footer layout, address, landmark, and phone number. Use these as the layout/footer reference alongside the brand reference image.
 - The logo in `assets/new-shop-logo-reference.png` is the exact supplied logo appearance extracted from that reference. Use it as the logo source; do not redraw, reinterpret, simplify, replace, recolor, or change its typography.
 - Preserve the supplied New Shop logo and its proportions/identity.
 - Treat the reference image's yellow, black, and white palette as the established brand theme. Keep the yellow/black/white relationship visually consistent across posts.
@@ -20,8 +21,9 @@ Create professional, high-quality Instagram promotional designs for New Shop, Tr
 
 ## Standard store information
 - Store: New Shop · Cantonment, Trichy
-- Address: Ground Floor, 120, Bharathiar Salai, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001
-- Phone: 91761 22210
+- Address: Ground Floor, 120, Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli – 620001
+- Landmark: Opposite St. James Matriculation Higher Secondary School (near by Domino's, Cantonment)
+- Phone: 7448973862
 - Instagram: @newshoptrichy
 - Google Maps: https://maps.app.goo.gl/MBiUWXNEwir7jxGN6
 - Store positioning: Right by Trichy Junction — Open 24/7
@@ -61,14 +63,15 @@ Before finalizing:
 
 ## Footer guidance
 For a full contact footer, prioritize:
-- Visit/store location
+- Visit/store location (address)
+- Landmark (pin/school icon + "Opposite St. James Matriculation Higher Secondary School (near by Domino's, Cantonment)")
 - Phone
 - Instagram
 - Google Maps QR code
 - “Right by Trichy Junction — Open 24/7”
 - “New Shop · Cantonment, Trichy”
 
-Do not cram the full address into tiny unreadable text. If space is limited, use a clean two-level footer and keep the QR code large enough to scan.
+The client-approved two-block footer style (address block left, landmark block right, as seen in `assets/approved-designs/`) is the preferred layout when space allows. Do not cram the full address into tiny unreadable text. If space is limited, use a clean two-level footer and keep the QR code large enough to scan.
 
 ## QR code
 If a Google Maps QR is requested, encode exactly:
@@ -136,12 +139,13 @@ For each new product:
 
 ### 5. Footer consistency
 When the post calls for the standard New Shop footer, preserve the established structure:
-- VISIT US
+- VISIT US (address)
+- LANDMARK
 - CALL US
 - FOLLOW US
 - FIND US ON GOOGLE MAPS
 - Bottom location/availability strip
-Use the supplied New Shop business information from the skill/reference assets. Do not invent or modify contact details.
+Use the supplied New Shop business information from the skill/reference assets (`references/store-details.md`, `assets/approved-designs/`). Do not invent or modify contact details.
 
 ### 6. Product packaging accuracy
 - The product package must remain faithful to the real product.

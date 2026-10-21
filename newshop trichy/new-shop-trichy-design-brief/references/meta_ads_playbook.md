@@ -21,7 +21,7 @@
 
 ## Targeting notes for this outlet
 
-- Radius targeting centered on Bharathiar Salai, Melapudur, Cantonment, Tiruchirappalli 620001
+- Radius targeting centered on Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli 620001 (opposite St. James Matriculation Higher Secondary School, near Domino's, Cantonment)
 - Layer in: commuters (interest/behavior: travel, railways), hospital-visitor adjacency is hard to target directly on Meta — lean on geo-radius instead
 - This is **not** a student/college-belt audience — don't default to youth-skewed creative unless a specific product justifies it
 

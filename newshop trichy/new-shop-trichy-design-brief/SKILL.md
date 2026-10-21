@@ -1,6 +1,6 @@
 ---
 name: new-shop-trichy-design-brief
-description: Use this skill whenever Vengatesh is creating, planning, or reviewing a design (Meta ad creative, social post, poster, banner, or AI-generated image) or a Meta ads idea/hook for the client New Shop Trichy (a franchise outlet of the New Shop 24/7 convenience retail chain, https://newshop.in/, located at Ground Floor, 120, Bharathiar Salai, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001). Trigger this for any new ad/design brief, when Vengatesh asks to "generate ad ideas" or "give me hooks" with or without a theme, when drafting Meta ad creative or copy, before starting design work, when self-checking a draft, when the client's request is vague, when asked about upcoming Trichy events or Tamil festivals worth running ads around, or when asked to sync/update the brand kit, Drive assets, or festival calendar. Covers Instagram/Facebook posts, Meta ad creatives (feed/reels/story), AI-generated product/lifestyle imagery, and print posters/banners for this specific outlet.
+description: Use this skill whenever Vengatesh is creating, planning, or reviewing a design (Meta ad creative, social post, poster, banner, or AI-generated image) or a Meta ads idea/hook for the client New Shop Trichy (a franchise outlet of the New Shop 24/7 convenience retail chain, https://newshop.in/, located at Ground Floor, 120, Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli – 620001). Trigger this for any new ad/design brief, when Vengatesh asks to "generate ad ideas" or "give me hooks" with or without a theme, when drafting Meta ad creative or copy, before starting design work, when self-checking a draft, when the client's request is vague, when asked about upcoming Trichy events or Tamil festivals worth running ads around, or when asked to sync/update the brand kit, Drive assets, or festival calendar. Covers Instagram/Facebook posts, Meta ad creatives (feed/reels/story), AI-generated product/lifestyle imagery, and print posters/banners for this specific outlet.
 ---
 
 # New Shop Trichy — Design & Meta Ads Brief Assistant
@@ -16,12 +16,14 @@ Helps Vengatesh generate Meta ad ideas and hooks (with or without a given theme)
 
 ## Confirmed facts (don't re-ask for these)
 
-- **Address:** Ground Floor, 120, Bharathiar Salai, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001
+- **Address:** Ground Floor, 120, Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli – 620001
+- **Landmark:** Opposite St. James Matriculation Higher Secondary School (near by Domino's, Cantonment)
 - **Location anchors:** ~0.8 km from Tiruchirappalli Junction (Trichy Junction) railway station; ~0.5 km from the Central Bus Stand; Cantonment commercial belt; near Joseph Eye Hospital, KMC Speciality, and K.A.P. Viswanathan Govt. Medical College; near Nalli Silks. This is a **transit + commercial + healthcare** footfall profile — not college-belt or temple-pilgrim-adjacent (Srirangam/Rockfort are elsewhere in Trichy, not walking distance from this outlet).
 - **Parent brand:** New Shop — India's franchised 24/7 convenience retail chain (newshop.in). Typical category mix across outlets: fresh food cafe, FMCG, stationery, tobacco, OTC medicines, and services like printing, ticket booking, ATM, courier — **but confirm which of these this specific outlet actually offers** before promoting any of them (see open items).
 - **Languages:** Currently using **English captions for now** (Vengatesh's explicit call). Earlier direction was Tamil/Tanglish by default since the audience is Tamil-speaking Trichy locals — that reasoning still stands and this may revert; check with Vengatesh before assuming which is current if this file looks stale. No Chinese and no Taiwan-market conventions — this is a Trichy, Tamil Nadu (India) outlet.
-- **Phone:** 91761 22210 (confirmed)
+- **Phone:** 7448973862 (confirmed)
 - **Instagram:** @newshoptrichy (confirmed)
+- **Approved designs:** `assets/approved-designs/` holds client-approved final posts (Kinder Joy, Toblerone, Americano Mints) — these set the current approved footer layout, address, landmark, and QR code treatment.
 
 ## Open items — confirm before finalizing brand-locked or product-specific creative
 

@@ -12,7 +12,9 @@
 - [ ] If Tamil/Tanglish is ever used again, get it checked by a native speaker before anything client-facing goes out
 - [ ] AI-generated visuals pass the checklist in `ai_image_guide.md`
 - [ ] Theme/hook checked against `posted_content_registry.md` to avoid repetition
-- [ ] Address/location references are accurate: Ground Floor, 120, Bharathiar Salai, Melapudur, Cantonment, Tiruchirappalli, Tamil Nadu 620001
+- [ ] Address/location references are accurate: Ground Floor, 120, Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli – 620001
+- [ ] Landmark is accurate: Opposite St. James Matriculation Higher Secondary School (near by Domino's, Cantonment)
+- [ ] Phone number is accurate: 7448973862
 
 ## Meta ads specifically
 
