@@ -28,6 +28,8 @@ Create professional, high-quality Instagram promotional designs for New Shop, Tr
 - Google Maps: https://maps.app.goo.gl/MBiUWXNEwir7jxGN6
 
 ## Layout variety (required)
+Before generating a new post, read `references/layout-pattern-log.md` and deliberately choose a hero composition, headline treatment, icon style, and accent typography that differ from the most recent 1–2 logged entries. After generating the post, add a new row to that log — this is how variety actually gets enforced across sessions, not just attempted from memory.
+
 Do not reuse the same layout, headline style, icon set, or typography across different posts — each design in `assets/approved-designs/` (Kinder Joy, Toblerone, Americano Mints, Takis Crisps) demonstrates a genuinely different composition while staying on-brand, and new posts must do the same:
 - Vary hero composition: product centered, stacked diagonally, fanned out, single hero vs. product lineup, etc.
 - Vary headline placement and treatment: top banner, diagonal ribbon, large background wordmark, speech-bubble style, torn-paper/brush-stroke badges, etc. — rotate between these rather than defaulting to one.
@@ -59,7 +61,7 @@ When appropriate, build the composition around:
 ## Design quality checklist
 Before finalizing:
 - Instagram-friendly square or portrait composition as requested, rendered at ultra-high (4K-equivalent) quality with no blur/artifacts.
-- Layout, headline treatment, icon style, and accent typography differ from the most recently generated New Shop post (see "Layout variety" above).
+- Layout, headline treatment, icon style, and accent typography differ from the most recently logged New Shop post in `references/layout-pattern-log.md` (see "Layout variety" above) — and the new post has been logged there.
 - Strong focal point on the product.
 - Text remains readable on a phone.
 - No overcrowded elements.
