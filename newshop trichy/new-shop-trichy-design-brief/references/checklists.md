@@ -15,6 +15,8 @@
 - [ ] Address/location references are accurate: Ground Floor, 120, Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli – 620001
 - [ ] Landmark is accurate: Opposite St. James Matriculation Higher Secondary School (near by Domino's, Cantonment)
 - [ ] Phone number is accurate: 7448973862
+- [ ] Layout/headline style/icons/accent typography differ from the most recently generated post — not a repeat template (see `brand_guidelines.md` → "Layout variety")
+- [ ] Rendered at ultra-high (4K-equivalent) quality, no blur/artifacts, correct Instagram-post size (see `brand_guidelines.md` → "Output quality & format")
 
 ## Meta ads specifically
 

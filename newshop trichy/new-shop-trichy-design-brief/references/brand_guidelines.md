@@ -39,6 +39,21 @@ The real logo file is saved at `assets/brand/new_shop_official_logo.png` (yellow
 
 **For anything still missing above: don't fabricate exact color values or fonts from memory for final production creative — flag it explicitly in the draft. This is a file-completeness gap, not a "which brand look to use" question — the look itself is settled as identical to the national brand, and the logo itself is now locked and available.**
 
+## Layout variety — required (don't template every post the same way)
+
+`assets/approved-designs/` holds client-approved final posts (Kinder Joy, Toblerone, Americano Mints, Takis Crisps) — each uses a visibly different layout, headline treatment, icon set, and accent typography while staying strictly on-brand. Treat them as proof of range, not a single template to clone:
+- Vary hero composition (single product, stacked/diagonal arrangement, fanned product lineup, centered vs. offset).
+- Vary headline placement/style (top banner, diagonal ribbon, oversized background wordmark, brush-stroke/torn-paper badge, speech-bubble callout) — rotate rather than defaulting to the same one every time.
+- Vary icon style per post (circular outline icons, flat filled icons, line icons, ribbon/badge icons).
+- Vary accent typography for headlines/promo callouts (bold condensed, script/handwritten tagline accent, italic emphasis) while keeping footer/body text clean and legible.
+- Vary background texture/energy within the black+yellow lock (diagonal yellow shards, radial glow, scattered product debris, color-block panels, motion streaks).
+- Never vary: the real logo file, the black+yellow(+white) palette lock, the footer structure/content (address, landmark, phone, Instagram, QR code — see footer spec below), or product accuracy.
+
+## Output quality & format
+
+- Render at the highest available quality — ultra-sharp, 4K-equivalent detail, no blur/compression artifacts/upscale noise. These are for direct posting to Instagram, Facebook, and the Facebook Page.
+- Default size: 1080×1080 px Instagram-square post unless a different size/placement is requested (see `meta_ads_playbook.md` for other aspect ratios).
+
 ## Confirmed visual style (from official_newshop Instagram posts, and layout ideas from a reference ad Vengatesh liked)
 
 - **Background: strictly two colors, black + yellow only — always, no exceptions.** See mandatory rules above. No gradients, no photoreal scenery, no third background color, on any post type.

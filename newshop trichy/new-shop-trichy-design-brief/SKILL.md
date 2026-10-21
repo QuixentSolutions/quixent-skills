@@ -23,7 +23,7 @@ Helps Vengatesh generate Meta ad ideas and hooks (with or without a given theme)
 - **Languages:** Currently using **English captions for now** (Vengatesh's explicit call). Earlier direction was Tamil/Tanglish by default since the audience is Tamil-speaking Trichy locals — that reasoning still stands and this may revert; check with Vengatesh before assuming which is current if this file looks stale. No Chinese and no Taiwan-market conventions — this is a Trichy, Tamil Nadu (India) outlet.
 - **Phone:** 7448973862 (confirmed)
 - **Instagram:** @newshoptrichy (confirmed)
-- **Approved designs:** `assets/approved-designs/` holds client-approved final posts (Kinder Joy, Toblerone, Americano Mints) — these set the current approved footer layout, address, landmark, and QR code treatment.
+- **Approved designs:** `assets/approved-designs/` holds client-approved final posts (Kinder Joy, Toblerone, Americano Mints, Takis Crisps) — these set the current approved footer layout, address, landmark, and QR code treatment, and demonstrate the required layout variety (see `references/brand_guidelines.md` → "Layout variety" and "Output quality & format"). Every new post should use a different layout/typography/icon treatment from the last one, at ultra-high (4K-equivalent) quality, Instagram-post sized (1080×1080 default), ready to post to Instagram, Facebook, and the Facebook Page.
 
 ## Open items — confirm before finalizing brand-locked or product-specific creative
 

@@ -12,7 +12,7 @@ Create professional, high-quality Instagram promotional designs for New Shop, Tr
 - Brand: New Shop
 - Primary visual theme: yellow, black, and white.
 - The supplied reference image in `assets/new-shop-reference-image.png` is the authoritative New Shop brand reference for this skill.
-- `assets/approved-designs/` contains client-approved final posts (Kinder Joy, Toblerone, Americano Mints) showing the current approved footer layout, address, landmark, and phone number. Use these as the layout/footer reference alongside the brand reference image.
+- `assets/approved-designs/` contains client-approved final posts (Kinder Joy, Toblerone, Americano Mints, Takis Crisps) showing the current approved footer layout, address, landmark, and phone number. Use these as the layout/footer reference alongside the brand reference image. Note they each use a different layout, headline treatment, icon style, and typography — see "Layout variety" below; don't clone one of them exactly.
 - The logo in `assets/new-shop-logo-reference.png` is the exact supplied logo appearance extracted from that reference. Use it as the logo source; do not redraw, reinterpret, simplify, replace, recolor, or change its typography.
 - Preserve the supplied New Shop logo and its proportions/identity.
 - Treat the reference image's yellow, black, and white palette as the established brand theme. Keep the yellow/black/white relationship visually consistent across posts.
@@ -26,6 +26,15 @@ Create professional, high-quality Instagram promotional designs for New Shop, Tr
 - Phone: 7448973862
 - Instagram: @newshoptrichy
 - Google Maps: https://maps.app.goo.gl/MBiUWXNEwir7jxGN6
+
+## Layout variety (required)
+Do not reuse the same layout, headline style, icon set, or typography across different posts — each design in `assets/approved-designs/` (Kinder Joy, Toblerone, Americano Mints, Takis Crisps) demonstrates a genuinely different composition while staying on-brand, and new posts must do the same:
+- Vary hero composition: product centered, stacked diagonally, fanned out, single hero vs. product lineup, etc.
+- Vary headline placement and treatment: top banner, diagonal ribbon, large background wordmark, speech-bubble style, torn-paper/brush-stroke badges, etc. — rotate between these rather than defaulting to one.
+- Vary supporting icon style per post (circular outline icons, flat filled icons, line icons, badge icons) instead of reusing identical icon shapes every time.
+- Vary accent typography/fonts for the headline and promo callouts (bold condensed, script/handwritten accent for a tagline, italic emphasis, etc.) while keeping body/footer text clean and legible.
+- Vary background texture/treatment within the black+yellow lock (e.g. diagonal yellow shards, radial glow, scattered product debris, color-block panels) so posts don't look templated.
+- The New Shop logo, brand lock (black+yellow+white), footer structure (VISIT US / LANDMARK / CALL US / FOLLOW US / FIND US ON GOOGLE MAPS), address, landmark, phone, and QR code stay fixed and must never vary — only the creative layout/typography/icon treatment varies.
 
 ## Standard post structure
 When appropriate, build the composition around:
@@ -49,7 +58,8 @@ When appropriate, build the composition around:
 
 ## Design quality checklist
 Before finalizing:
-- Instagram-friendly square or portrait composition as requested.
+- Instagram-friendly square or portrait composition as requested, rendered at ultra-high (4K-equivalent) quality with no blur/artifacts.
+- Layout, headline treatment, icon style, and accent typography differ from the most recently generated New Shop post (see "Layout variety" above).
 - Strong focal point on the product.
 - Text remains readable on a phone.
 - No overcrowded elements.
@@ -153,7 +163,8 @@ Use the supplied New Shop business information from the skill/reference assets (
 
 ### 7. Instagram format lock
 Unless the user specifies another size:
-- Create a 1080 × 1080 px Instagram square post.
+- Create a 1080 × 1080 px Instagram square post (also works unchanged for Facebook feed and Facebook Page posts).
+- Render at the highest quality/resolution available (ultra-sharp, 4K-equivalent detail) and avoid any upscaling artifacts, blur, or compression noise — this is for direct posting to Instagram, Facebook, and the Facebook Page.
 - Keep all important text, logo elements, product details, and CTA safely inside the visible area.
 - Maintain strong readability at mobile-feed size.
 
