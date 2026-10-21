@@ -61,7 +61,7 @@ The real logo file is saved at `assets/brand/new_shop_official_logo.png` (yellow
 - **Headline pattern:** bold hook-first headline — an emotional/benefit line before the product name (e.g. "Your Chocolate Craving, Solved." before "Cadbury Dairy Milk Silk — Fruit & Nut") — key words highlighted in yellow against a black background, white body text.
 - **Urgency badge:** a circular or ribbon "Now in Stock" style badge, yellow outline or fill on black.
 - **Benefit icon list (product posts):** 3 short benefit points, each as a small circular icon + bold yellow label + one-line white subtext (e.g. "Rich & Creamy — Smoothest Dairy Milk Silk"), on the black background. See `product_description_guide.md` for the pattern.
-- **CTA button:** real rounded button, yellow fill, bold black text (e.g. "Grab Yours Now →") — not plain caption text.
+- **CTA button:** real rounded button, yellow fill, bold black text — not plain caption text. Wording must be product/offer-specific and must NOT default to the same phrase ("Grab Yours Now →" or any other) on every post; write a new CTA per product/design (product-based e.g. "Unwrap the Joy →", offer-based e.g. "Save While It Lasts →", urgency-based e.g. "Now in Stock →") and log it in `posted_content_registry.md`'s layout/pattern table so it isn't repeated next time.
 - **Footer (client-approved pattern as of the latest approved designs — see `assets/approved-designs/`):**
   - **Left block:** pin icon + "NEW SHOP" + full address: "Ground Floor, 120, Dukes Complex, Bharathiar Salai, Cantonment, Tiruchirappalli – 620001"
   - **Right block:** school/landmark icon + "LANDMARK" + "Opposite St. James Matriculation Higher Secondary School (near by Domino's, Cantonment)"

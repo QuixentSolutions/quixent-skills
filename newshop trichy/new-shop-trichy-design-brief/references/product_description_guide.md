@@ -9,7 +9,7 @@ For any product named or shown, produce:
 1. **Product name** — exact, as it appears in `product_categories.md` / the source list
 2. **Category tag** — short label (e.g. "Chocolate", "Energy Drink", "Ice Cream") from `product_categories.md`
 3. **A 2–3 sentence description**, written to be appetizing/attractive, following the rules below
-4. **A short CTA line** (e.g. "Grab yours today", "In stock now")
+4. **A short CTA line, written specifically for this product/offer** — don't default to "Grab yours today" or any other fixed phrase on every post. Pick an angle that fits the product: product-based (e.g. "Taste the Crunch", "Unwrap the Joy"), offer-based (e.g. "Save While It Lasts"), or urgency-based (e.g. "In Stock Now"). Check `posted_content_registry.md`'s layout/pattern log and avoid repeating the last post's CTA.
 
 ## Rules for the description text
 
@@ -48,7 +48,7 @@ The description block needs its own visual space in the layout — not just a on
 - **Hook headline first, product name second** — lead with an emotional/benefit-driven line (e.g. "Your chocolate craving, solved."), not the product name. People stop scrolling for a feeling, not a SKU.
 - **"NOW IN STOCK" or similar urgency ribbon** — small diagonal badge, creates freshness/urgency
 - **Radial glow behind the hero product shot** — draws the eye instead of the product sitting flat on black
-- **Real CTA button, not plain text** — e.g. "Grab Yours Now →" styled as a button (rounded rect, filled yellow, bold black text)
+- **Real CTA button, not plain text** — styled as a button (rounded rect, filled yellow, bold black text), with wording that's product/offer-specific per the CTA rule above, not a reused fixed phrase
 - **Short, punchy description fragments** over full sentences — "Rich. Creamy. Loaded with Real Fruit & Nut." hits faster than a complete sentence when someone's scrolling
 - Still follows the mandatory background rule (see `brand_guidelines.md`) — strictly black + yellow, no exceptions, no photoreal scenery.
 

@@ -47,7 +47,7 @@ When appropriate, build the composition around:
 5. Large, realistic hero product image.
 6. Product-specific visual effects that fit the product.
 7. 2–4 concise benefit/features callouts only when factually supported.
-8. Strong CTA such as “GRAB YOURS NOW →”.
+8. Strong, product/offer-specific CTA — not the same line reused every time (see "CTA variety" below).
 9. Footer containing store/contact details.
 10. Google Maps QR code when requested or when the standard contact footer is being used and there is enough space.
 
@@ -69,7 +69,7 @@ Before finalizing:
 - Footer is legible.
 - Yellow/black/white New Shop identity remains visible.
 - Product-specific lighting and effects look realistic.
-- CTA is visually prominent.
+- CTA is visually prominent and worded for this specific product/offer, not a copy-pasted stock phrase (see "CTA variety").
 - Contact details are spelled exactly as provided.
 
 ## Footer guidance
@@ -96,6 +96,13 @@ Use short, energetic, retail-focused copy:
 - Minimal benefit statements
 - Direct CTA
 Avoid long paragraphs.
+
+## CTA variety (required)
+Do not default to "GRAB YOURS NOW →" (or any single phrase) on every post — the CTA must be written for the specific product/offer/design, not reused verbatim across posts. Vary both the wording and the angle:
+- Product-based: "TASTE THE CRUNCH →", "UNWRAP THE JOY →", "STOCK UP ON FRESH →"
+- Offer-based: "GRAB THE DEAL →", "SAVE WHILE IT LASTS →"
+- Urgency/availability-based: "NOW IN STOCK →", "DON'T MISS OUT →"
+Pick the angle and wording that fits the specific product and headline being used, keep it short (2–4 words + arrow), and log it alongside the layout pattern in `references/layout-pattern-log.md` so the next post doesn't repeat it.
 
 ## User-provided assets
 When the user provides a logo, product photo, reference design, or QR code:
@@ -135,7 +142,7 @@ Every promotional post should feel like it belongs to the same New Shop campaign
 - Yellow brush-stroke/highlight treatment behind major headline words when appropriate.
 - Dramatic product lighting, realistic reflections, controlled glow, and dynamic energy effects.
 - Yellow rectangular labels/badges such as “NOW IN STOCK” when appropriate.
-- Yellow pill-shaped CTA such as “GRAB YOURS NOW →” when appropriate.
+- Yellow pill-shaped CTA button, worded per-product/offer (see "CTA variety" above) — not the same fixed phrase every time.
 - Use clean information blocks with yellow headings and white supporting text.
 - Keep generous visual hierarchy; do not overcrowd the design.
 
