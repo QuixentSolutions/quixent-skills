@@ -17,10 +17,8 @@ Instagram:
 Google Maps:
 https://maps.app.goo.gl/MBiUWXNEwir7jxGN6
 
-Standard location statement:
-Right by Trichy Junction — Open 24/7
-
 Approved footer layout (from client-approved designs, see `assets/approved-designs/`):
 - Pin icon + "NEW SHOP" + address (left block)
 - School icon + "LANDMARK" + landmark line (right block)
 - Google Maps QR code and other footer details stay as previously established.
+- Do NOT add a bottom strip line below the footer (e.g. "New Shop · Cantonment, Trichy" / "Right by Trichy Junction — Open 24/7") — this has been removed from the approved footer and should not appear in new designs.

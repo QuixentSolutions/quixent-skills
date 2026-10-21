@@ -14,11 +14,8 @@ Visual direction:
 - Mobile-first typography
 - Clean, structured footer
 
-Established location line:
-Right by Trichy Junction — Open 24/7
-
-Brand line:
-New Shop · Cantonment, Trichy
+Footer note:
+Do NOT add a bottom strip below the contact footer (e.g. "New Shop · Cantonment, Trichy" / "Right by Trichy Junction — Open 24/7") — this has been removed from the approved footer and must not appear in new designs.
 
 
 ## Exact visual reference

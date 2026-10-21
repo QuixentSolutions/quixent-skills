@@ -26,7 +26,6 @@ Create professional, high-quality Instagram promotional designs for New Shop, Tr
 - Phone: 7448973862
 - Instagram: @newshoptrichy
 - Google Maps: https://maps.app.goo.gl/MBiUWXNEwir7jxGN6
-- Store positioning: Right by Trichy Junction — Open 24/7
 
 ## Standard post structure
 When appropriate, build the composition around:
@@ -68,10 +67,9 @@ For a full contact footer, prioritize:
 - Phone
 - Instagram
 - Google Maps QR code
-- “Right by Trichy Junction — Open 24/7”
-- “New Shop · Cantonment, Trichy”
 
 The client-approved two-block footer style (address block left, landmark block right, as seen in `assets/approved-designs/`) is the preferred layout when space allows. Do not cram the full address into tiny unreadable text. If space is limited, use a clean two-level footer and keep the QR code large enough to scan.
+Do NOT add a bottom strip below the footer (e.g. "New Shop · Cantonment, Trichy" / "Right by Trichy Junction — Open 24/7") — this has been removed from the approved design and must not appear in new posts.
 
 ## QR code
 If a Google Maps QR is requested, encode exactly:
@@ -144,7 +142,7 @@ When the post calls for the standard New Shop footer, preserve the established s
 - CALL US
 - FOLLOW US
 - FIND US ON GOOGLE MAPS
-- Bottom location/availability strip
+No bottom location/availability strip below this bar — it has been removed from the approved footer.
 Use the supplied New Shop business information from the skill/reference assets (`references/store-details.md`, `assets/approved-designs/`). Do not invent or modify contact details.
 
 ### 6. Product packaging accuracy

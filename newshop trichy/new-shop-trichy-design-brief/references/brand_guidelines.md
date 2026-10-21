@@ -53,7 +53,7 @@ The real logo file is saved at `assets/brand/new_shop_official_logo.png` (yellow
   - **Call Us** — phone icon + confirmed number: **7448973862**
   - **Follow Us** — Instagram icon + confirmed handle: **@newshoptrichy**
   - **Find Us on Google Maps** — "Scan QR Code to Get Directions" + QR code linking to https://maps.app.goo.gl/MBiUWXNEwir7jxGN6 (keep QR code and other footer mechanics as previously established)
-  Below that bar, keep the short summary line too where space allows: pin icon + "Right by Trichy Junction — Open 24/7" + "New Shop · Cantonment, Trichy".
+  Do NOT add a bottom strip below this bar (e.g. "New Shop · Cantonment, Trichy" / "Right by Trichy Junction — Open 24/7") — this has been removed from the approved footer and must not appear in new posts.
 - **Festival post format:** bold festival greeting line + `www.newshop.in` or address reference, black+yellow only.
 - **Caption style (from real post):** short, warm, wordplay-driven (e.g. "Friends Forever. Convenience Always.") with hashtags
 
